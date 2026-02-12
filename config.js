@@ -21,7 +21,7 @@ const CONFIG = {
     questions: {
         first: {
             text: "WOULD YOU DO ME THE HONOR OF BEING MY VALENTINES DATE", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            yesBtn: "YES HEHEHE",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
