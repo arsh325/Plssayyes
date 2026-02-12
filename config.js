@@ -20,8 +20,19 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "WOULD YOU DO ME THE HONOR OF BEING MY VALENTINES DATE", // The big question!
-            yesBtn: "YES HEHEHE",                                             // Text for "Yes" button
+            text: "I love you vani?",                                    // First interaction
+            yesBtn: "I love you more",                                             // Text for "Yes" button
+            noBtn: "I love you too",                                               // Text for "No" button
+            secretAnswer: "GIRL WHY YOU SO OBSESSED WITH ME?"           // Secret hover message
+        },
+        second: {
+            text: "How much do you love me?",                          // For the love meter
+            startText: "GIVE ME A NUMBER!",                                   // Text before the percentage
+            nextBtn: "Next ❤️"                                         // Text for the next button
+        },
+        third: {
+            text: "WILL YOU BE MY VALENTINES?!!?", // The big question!
+            yesBtn: "YES OFC ARSH",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
